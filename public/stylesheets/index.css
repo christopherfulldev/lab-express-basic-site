@@ -1,0 +1,11 @@
+body{
+    margin: 0vw;
+    padding: 0vw;
+    font-family: "Times New Roman";
+    color: White;
+    background-color: black;
+}
+
+body h1 {
+    text-align: center;
+}
